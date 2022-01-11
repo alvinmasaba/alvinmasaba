@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinmasaba
 - 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning data structures, OOP, C, python, machine learning
+- 🌱 I’m currently Ruby, Rails, OOP, Data Structures
 - 💞️ I’m looking to collaborate on challenging projects that will help develop my skills 
 - 📫 How to reach me ...
 
